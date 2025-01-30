@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creating a Discord Server for Community Support",
+    "section": "",
+    "text": "Discord servers are a useful way to connect and support a community. This may be a long-term community (e.g., storing onboarding documents, hosting regular meetups, advertising events) or a transient community (e.g., during a conference or event).\nThe aim of this document is to provide some guidance on creating a discord server for the purpose of community support. We will assume no prior knowledge of discord.\nThis is by no means exhaustive and I recommend you do further research on specific topics like permissions before using a server for a major event.\n\n\nAn introduction to Discord\nCreating your first server\nChannels\nRoles"
+  },
+  {
+    "objectID": "index.html#discord-for-community-support",
+    "href": "index.html#discord-for-community-support",
+    "title": "Creating a Discord Server for Community Support",
+    "section": "",
+    "text": "Discord servers are a useful way to connect and support a community. This may be a long-term community (e.g., storing onboarding documents, hosting regular meetups, advertising events) or a transient community (e.g., during a conference or event).\nThe aim of this document is to provide some guidance on creating a discord server for the purpose of community support. We will assume no prior knowledge of discord.\nThis is by no means exhaustive and I recommend you do further research on specific topics like permissions before using a server for a major event.\n\n\nAn introduction to Discord\nCreating your first server\nChannels\nRoles"
+  },
+  {
+    "objectID": "index.html#topics",
+    "href": "index.html#topics",
+    "title": "Creating a Discord Server for Community Support",
+    "section": "Topics",
+    "text": "Topics\nAn introduction to Discord\nChannels\nRoles"
+  },
+  {
+    "objectID": "channels.html",
+    "href": "channels.html",
+    "title": "Channels",
+    "section": "",
+    "text": "A channel is a space for people to start discussion. We will\nDiscord automatically creates two channels: one text, and one voice. Channels are grouped into Categories,"
+  }
+]

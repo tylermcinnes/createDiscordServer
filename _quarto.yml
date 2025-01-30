@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    title: Creating a Discord Server
+    right: 
+      - text: Home
+        href: index.qmd
+    left:
+      - text: Channels
+        href: channels.qmd  
+
+    tools: 
+      - icon: github
+        href: https://github.com/tylermcinnes/ 
+
+## May choose to add a sidebar if each section requires multiple pages. If not, skip this and 
+## rely on toc: true within the header yaml on each section page.
+#  sidebar:
+#    - title: "Creating a discord server"
+#      style: "docked"
+#      background: light
+#      contents:
+#        - channels.qmd
+
+
+format:
+  html:
+## the following html format rules are copied into styles.scss  
+#    backgroundcolor: "#ebd9c8"
+#    fontcolor: "#003f5a"
+#    linkcolor: "#de6600"
+    mainfont: "sarif"
+    monofont: "monospace"
+    fontsize: 18px
+    theme: [cosmo, styles.scss]
+

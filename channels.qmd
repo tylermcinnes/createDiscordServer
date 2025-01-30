@@ -1,0 +1,10 @@
+---
+title: Channels
+author: "Tyler McInnes"
+date: "2025-01-30"
+output: html_document
+---
+
+A channel is a space for people to start discussion. We will 
+
+Discord automatically creates two channels: one text, and one voice. Channels are grouped into Categories, 

@@ -1,0 +1,27 @@
+---
+title: Creating a server
+author: "Tyler McInnes"
+date: "2025-01-30"
+output: html_document
+---
+
+On the left side of the screen, below the Discord icon, you will see the existing servers you have joined. You will also see a "+" symbol, which is how we create a new server. 
+
+When you click on the "+" a new window will open, offering you the chance to either create the server from scratch or start from a template. 
+[template figure]
+
+For now, we will focus on creating our own server (explore templates later!). Discord will then ask a follow-up question - is this server for a few friends or a community? Choose whichever is more appropriate for your server. You can then choose to add a server icon and select an appropriate name for the server. 
+
+You should now see your new server! In the example image, I've named the server TMS, and it's currently pretty much empty. We can see on the left a navigation bar with some channels (more on those shortly), and a welcome message. In the top left you can see the name of the server, which is actually a drop-down menu.
+[server welcome, drop-down menu]
+
+One of the first things we will do is set our server as a "community", which comes with a number of useful presets. This is ideal for any situation where you are inviting people outside of your close friend group or immediate work colleagues.
+
+Create server
+give name
+
+enable community (settings, enable community, verified email, scan content
+    set default notifications to Mentions only, remove mod permissions for everyone - note, we will cover permissions shortly)
+
+
+Remember to give roles to people  after creating them!
